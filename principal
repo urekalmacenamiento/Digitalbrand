@@ -1,1 +1,74 @@
 # Principal
+
+<!DOCTYPE html>
+
+<html lang="es-MX">
+<head>
+
+
+<title>Digital</title>
+
+<meta charset="UTF-8">
+<meta name="Servicios desarrollo Web" content="Servicios de sitio Web, páginas Web">
+<meta http-equiv="refresh" content="600">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="estiloaplicado.css">
+
+
+<style>
+
+<!-- CSS en pagina -->
+
+
+
+</style>
+
+</head>
+
+
+
+<body>
+
+<header class="encabezado"><h1><br></h1></header>
+<header class="encabezado"><h1>Digital</h1></header>
+<header class="encabezado"><h5><br></h5></header>
+
+<ul class="menu">
+	<li><a href="paginas/paquetes.html">Página principal</a></li>
+    <li><a href="#catalogo">Catálogo</a></li>
+	<li><a href="#contact">Contacto</a></li>
+</ul>
+
+<header class="encabezado"><p><br></p></header>
+
+<div class="caja1">
+  <h2>Digital</h2>
+  <p>Un sitio destinado a ofrecer lo mejor de nosotros para que puedas proyectarte en tu sitio Web personalizado
+  <br>Cada página Web esta personalizada a tus requerimientos para que ofrezcas un producto de calidad
+ 
+ 
+  </p>
+</div>
+
+
+<div><br></br>
+
+
+<div class="contacto">
+	<p>Tel 33-13-03-6681<br> 
+	Facebook  <a  class="one" href="https://web.facebook.com/" target="_blank">Uriel González Orozco</a><br>
+	e-mail: digitalatencion@digital.com<br>
+	</P>
+</div>
+
+
+<script> <!-- aqui puede ir JavaScript o despues de /body--> </script>
+
+
+</body>
+<script src="JavaScript.js"></script>
+
+</html>
+
+
